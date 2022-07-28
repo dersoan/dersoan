@@ -1,6 +1,8 @@
 
 
-### Olá eu sou o Anderson Vieira 👋
+### Minhas Soft Skills
+Experiência em processos ágil de projetos com Scrum e Kanban. Capacidade para resolver problemas, trabalhar sob pressão, resiliência é uma das minhas qualidades, possuo flexibilidade e empatia com os parceiros de equipe, escrita e comunicação.
+ 👋
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![spoti](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
