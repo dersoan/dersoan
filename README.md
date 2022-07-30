@@ -33,7 +33,18 @@ Experiência em processos ágil de projetos com Scrum e Kanban. Capacidade para 
 </div><br />
 
 
-### Bora pra cima, minha maior motivação é fazer o que gosto 
+### Conduta calorosa e amigável sempre!
+Experiente em resolução de conflitos.
+Com facilidade para trabalhar em
+equipe. Sempre atento às necessidades
+dos colegas de equipe. Solucionador
+de problemas e multifacetado. Histórico
+de ser uma parte essencial da
+equipe de gerenciamento e fundamental
+em fornecer soluções eficazes que
+produzem impacto imediato e contribuem
+para o sucesso a longo prazo da
+empresa.
 
  ### Minhas Ferramentas de designer preferidas.
 <div style="display: inline_block"><br />
